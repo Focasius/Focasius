@@ -12,14 +12,11 @@
 [![](https://img.shields.io/badge/Bilibili-%E5%9C%A8%E4%B8%8B%E6%9C%AA%E5%AE%9A%E4%B9%89-white?logo=bilibili&logoColor=%2300A1D6&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF,)](https://space.bilibili.com/3546711072967228)
 ![](https://img.shields.io/badge/QQ-3962717212-white?logo=qq&logoColor=%231EBAFC&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF,)
 
-
-  <center>
+<p align="center">
   自古逢秋悲寂寥，我言秋日胜春朝。<br>
   晴空一鹤排云上，便引诗情到碧霄。
-  <br>
-  </center>
+</p>
 
-  
 ***
 ## 关于我自己
 
