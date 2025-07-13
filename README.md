@@ -13,14 +13,13 @@
 ![](https://img.shields.io/badge/QQ-3962717212-white?logo=qq&logoColor=%231EBAFC&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF,)
 
 
-<font color = #E0FFFF>
   <center>
   自古逢秋悲寂寥，我言秋日胜春朝。<br>
   晴空一鹤排云上，便引诗情到碧霄。
   <br>
   </center>
-</font>
 
+  
 ***
 ## 关于我自己
 
