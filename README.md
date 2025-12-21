@@ -91,7 +91,7 @@ class Focasius:
   💌 **交流方式**：
   
   [![Bilibili](https://img.shields.io/badge/B站私信-在下未定义-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546711072967228)
-  [![QQ](https://img.shields.io/badge/QQ交流-3962717212-1EBAFC?style=flat-square&logo=qq&logoColor=white)](https://qm.qq.com/q/xxx)
+  [![QQ](https://img.shields.io/badge/QQ交流-3962717212-1EBAFC?style=flat-square&logo=qq&logoColor=white)](https://qm.qq.com/q/3962717212)
   
 </div>
 
