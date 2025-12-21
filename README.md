@@ -1,4 +1,3 @@
-
 ```
 ████████╗██╗  ██╗██╗███████╗    ██╗███████╗     ██████╗ ██╗  ██╗ ██████╗ ██████╗  ██████╗ ███████╗██████╗  ██████╗
 ╚══██╔══╝██║  ██║██║██╔════╝    ██║██╔════╝    ██╔═████╗╚██╗██╔╝██╔════╝██╔═████╗██╔═████╗██╔════╝██╔══██╗██╔════╝
@@ -7,47 +6,45 @@
    ██║   ██║  ██║██║███████║    ██║███████║    ╚██████╔╝██╔╝ ██╗╚██████╗╚██████╔╝╚██████╔╝███████╗██████╔╝╚██████╗
    ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝╚══════╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═════╝  ╚═════╝
 ```
+[![](https://img.shields.io/badge/Bilibili-在下未定义-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/3546711072967228)
+[![](https://img.shields.io/badge/QQ-3962717212-1EBAFC?logo=qq&logoColor=white)](https://qm.qq.com/q/3962717212) <!-- 可替换为真实QQ链接 -->
 
+> 自古逢秋悲寂寥，我言秋日胜春朝。  
+> 晴空一鹤排云上，便引诗情到碧霄。
 
-[![](https://img.shields.io/badge/Bilibili-%E5%9C%A8%E4%B8%8B%E6%9C%AA%E5%AE%9A%E4%B9%89-white?logo=bilibili&logoColor=%2300A1D6&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF,)](https://space.bilibili.com/3546711072967228)
-![](https://img.shields.io/badge/QQ-3962717212-white?logo=qq&logoColor=%231EBAFC&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF,)
+---
+
+## 🌟 关于我
+
+你好！我是 **Focasius**，一名来自江西的初中生。热爱阅读、编程与探索，喜欢在字里行间寻找灵感，在代码中构建想象。
+
+我相信生活处处是诗意，也乐于在平凡中发现不平凡。无论是沉浸于书本的世界，还是埋头于代码的逻辑，我都享受那种专注与创造的快乐。
+
+期待与你交流、学习，一起发现生活中的小美好✨
+
+---
+
+## 🛠️ 技能栈
+
+- ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+- ![](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+
+目前正在学习与实践中，也乐于接触更多有趣的领域。
+
+---
+
+## 📊 GitHub 数据
 
 <p align="center">
-  自古逢秋悲寂寥，我言秋日胜春朝。<br>
-  晴空一鹤排云上，便引诗情到碧霄。
+  <img src="https://github-readme-stats.vercel.app/api?username=Focasius&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Focasius&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
-***
-## 关于我自己
+---
 
-> 大家好呀！我是一个来自中国江西的初中生。平时喜欢看点小书呀。<br>
-> 我享受在书本里发现惊喜的瞬间，也珍惜日常里那些温暖的烟火气。<br>
-> 我欢学习新东西，也乐意倾听不同的声音。<br>
-> 无论是聊聊有趣的书，还是分享生活中的小确幸，我都觉得是件挺棒的事。<br>
-> 很高兴认识你，希望能陪你聊聊天，解解闷，或者一起发现点生活里的小光亮。<br>
-> 如果可以的话，你可你在B站上点个关注呀。蟹蟹！
+> 感谢你的来访，如果喜欢我的内容，不妨在 B站 点个关注。我们下次见！
 
-***
-
-## 我能够使用：
-- ![](https://img.shields.io/badge/Python-white?logo=python&logoColor=%233776AB)
-- ![](https://img.shields.io/badge/C%2B%2B-white?logo=cplusplus&logoColor=%2300599C)
-- ![](https://img.shields.io/badge/Rust-white?logo=rust&logoColor=%23000000)
-
-
-***
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Focasius&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Focasius&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Focasius&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Focasius&layout=compact)
-
+<p align="right">
+  <i>保持好奇，保持热爱。</i>
+</p>
