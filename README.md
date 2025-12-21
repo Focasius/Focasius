@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Focasius;自古逢秋悲寂寥%2C+我言秋日胜春朝" alt="Typing SVG" />
+  <img src="typing.svg" alt="Typing SVG" />
 </p>
 
 
