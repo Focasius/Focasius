@@ -2,7 +2,6 @@
   <img src="typing.svg" alt="Typing SVG" />
 </p>
 
-
 ## 📖 关于我
 
 ```python
@@ -11,24 +10,29 @@ class Focasius:
         self.name = "Focasius"
         self.location = "江西 · 中国"
         self.education = "初中生"
-        self.interests = ["编程", "阅读", "技术探索", "创意写作"]
+        self.interests = ["编程", "阅读", "技术探索", "创意写作", "ESP32开发", "MagicCube"]
         self.personality = ["好奇", "坚持", "热爱学习", "乐于分享"]
+        self.favorite_characters = [
+            "天野阳菜(《天气之子》)",
+            "友利奈绪(《Charlotte》)"
+        ]
     
     def current_focus(self):
         return [
             "学习算法与数据结构",
             "探索Rust语言的精妙",
             "构建有趣的小项目",
-            "阅读科技与文学书籍"
+            "阅读科技与文学书籍",
+            "入门ESP32开发（使用ESP-IDF/Arduino框架）"
         ]
     
     def motto(self):
         return "天接云涛连晓雾，星河欲转千帆舞"
 ```
 
-> 🌱 **我的理念**：相信技术能够创造价值，知识能够改变视野。在编程的世界里，我享受从无到有的创造过程；在书本的海洋中，我寻找跨越时空的思想对话。
+> 🌱 **我的理念**：相信技术能够创造价值，知识能够改变视野。在编程的世界里，我享受从无到有的创造过程；在书本的海洋中，我寻找跨越时空的思想对话。  
 
-> 📚 **近期书单**：《Rust 程序设计》 《百年孤独》
+> 📚 **近期书单**：《Rust 程序设计》 《百年孤独》《天气之子》《编译原理》
 
 ---
 
@@ -47,10 +51,11 @@ class Focasius:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 正在学习
+### ESP32开发（入门中）
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-000000?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=flat-square&logo=freertos&logoColor=white)
 
 ---
 
@@ -68,11 +73,8 @@ class Focasius:
 
 ## 🎯 年度目标
 
-- [ ] 掌握Rust基础并完成一个小型项目
-- [ ] 学习基础算法与数据结构
-- [ ] 阅读10本技术/文学书籍
-- [ ] 在GitHub上贡献100+次提交
-- [ ] 学习基本的Web开发知识
+- [ ] 完善Lithium编译器
+- [ ] 用ESP32完成潜艇的设计
 
 ---
 
@@ -83,7 +85,7 @@ class Focasius:
 </p>
 
 <p align="center">
-  <strong>编程学习</strong> · <strong>技术讨论</strong> · <strong>读书分享</strong> · <strong>开源协作</strong>
+  <strong>编程学习</strong> · <strong>技术讨论</strong> · <strong>读书分享</strong> · <strong>开源协作</strong> · <strong>ESP32/硬件</strong>
 </p>
 
 <div align="center">
@@ -116,6 +118,6 @@ class Focasius:
     <i>感谢你的访问！一起学习，共同成长 ✨</i>
   </p>
   <p>
-    <sub>最后更新：2025.12.21 10:00</sub>
+    <sub>最后更新：2026.07.05</sub>
   </p>
 </footer>
